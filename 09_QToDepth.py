@@ -8,4 +8,5 @@
 # Jens Kiesel - jenskiesel@gmail.com
 # Claas Faber - claas.faber@posteo.de
 #
-# 
+# This script:
+# - calculates water depths based on the simulated discharges
