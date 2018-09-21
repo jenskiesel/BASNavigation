@@ -1,6 +1,6 @@
 # This script is part of the workflow to assess
 # navigability in the Baro-Akobo-Sobat region
-# 
+#
 # Project carried out by HYDROC GmbH, 2018-2019 
 # for the World Food Programme
 #
@@ -10,3 +10,5 @@
 #
 # This script:
 # - calculates water depths based on the simulated discharges
+#
+# Python 3.6.6

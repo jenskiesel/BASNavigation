@@ -14,7 +14,8 @@
 # - moves the previous files to the Archive
 # - downloads the new files since last download
 # - saves the files in the RawClimateData folder
-
+#
+# Python 3.6.6
 
 # -------
 # IMPORTS

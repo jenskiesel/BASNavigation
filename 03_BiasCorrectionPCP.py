@@ -10,4 +10,6 @@
 #
 # 
 # This script
-# - checks the month of the 
+# - checks the month of the
+#
+# Python 3.6.6
