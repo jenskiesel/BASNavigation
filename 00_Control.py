@@ -8,4 +8,6 @@
 # Jens Kiesel - jenskiesel@gmail.com
 # Claas Faber - claas.faber@posteo.de
 #
-# 
+# This script:
+# - runs the whole workflow
+
